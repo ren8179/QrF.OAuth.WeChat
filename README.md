@@ -1,6 +1,8 @@
 # QrF.OAuth.WeChat
 .net Core2.2 WebApi通过OAuth2.0实现微信登录
 
+> 该项目不适用 .net Core 3.1 ,我在 [Qf.Core](https://github.com/ren8179/Qf.Core) 项目中重新实现了微信登录功能,用法保持一致
+
 ### 前言
 
 微信相关配置请参考 [微信公众平台](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1421140842) 的这篇文章。注意授权回调域名一定要修改正确。
